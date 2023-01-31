@@ -1,8 +1,7 @@
 ### Hi there 👋!
 #
 
-I'm a passionate front-end developer. In my spare time, I like to contribute to open-source projects. 
-I'm currently working on my projects in frontend mentor and started to learn Node.js and MongoDB.
+I'm a passionate front-end developer. I'm currently working on my projects in frontend mentor and started to learn Node.js and MongoDB. In my spare time, I like to contribute to open-source projects. 
 
 Reach me: **jolanutan@gmail.com**
 
