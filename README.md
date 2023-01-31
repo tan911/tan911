@@ -1,14 +1,10 @@
-### Hi there!
+### Hi there 👋!
+#
 
-I'm passionate frontend developer. In my spare time I like to contribute open source project.
+I'm a passionate front-end developer. In my spare time, I like to contribute to open-source projects. 
+I'm currently working on my projects in frontend mentor and started to learn Node.js and MongoDB.
 
-- 🔭 I’m currently working on [Frontendmentor Chellenges](https://www.frontendmentor.io/challenges)
-
-- 🌱 I’m currently learning **Node.js, Mongodb**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-
-- 📫 How to reach me **jolanutan@gmail.com**
+Reach me: **jolanutan@gmail.com**
 
 #
 
@@ -30,8 +26,5 @@ I'm passionate frontend developer. In my spare time I like to contribute open so
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-#
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tan911&show_icons=true&locale=en" alt="tan911" /></p>
 
 
