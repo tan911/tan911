@@ -3,14 +3,7 @@
 
 I'm a passionate front-end developer. I'm currently working on my projects in frontend mentor and started to learn Node.js and MongoDB. In my spare time, I like to contribute to open-source projects. 
 
-Reach me: **jolanutan@gmail.com**
-
-#
-
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jovan-lanutan-286290258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jovan-lanutan-286290258/" height="30" width="40" /></a>
-</p>
+How to reach me: **jolanutan@gmail.com**
 
 #
 
