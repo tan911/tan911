@@ -1,22 +1,34 @@
+![Banner](https://user-images.githubusercontent.com/92535526/234845729-ab696786-9655-40b3-a646-507f41821f69.png)
+
 ### Hi there 👋!
 #
 
-I'm a passionate front-end developer. I'm currently working on my projects in frontend mentor and started to learn Node.js and MongoDB. In my spare time, I like to contribute to open-source projects. 
+I'm a passionate front-end developer. I'm currently working on my projects in frontend mentor and started to learn Backend development. In my spare time, I like to contribute to open-source projects. 
 
-How to reach me: **jolanutan@gmail.com**
+email: **jolanutan@gmail.com** <br>
+frontendmentor: [tan911](https://www.frontendmentor.io/profile/tan911)
 
-#
+### 💻 Technologies I used
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<html5>&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<html5>&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<html5>&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<html5>&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<html5>&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=<html5>&logoColor=white&color=CC6699)
 
-<h3 align="left">Technologies that I used:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+### ⚛ Frameworks and Libraries I used
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=<html5>&logoColor=white&color=06B6D4)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<html5>&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=<html5>&logoColor=white&color=764ABC)
+
+### 🛠 Tools I used
+![](https://img.shields.io/badge/git-informational?style=flat&logo=<html5>&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/github-informational?style=flat&logo=<html5>&logoColor=white&color=181717)
+![](https://img.shields.io/badge/vscode-informational?style=flat&logo=<html5>&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Eclipse-informational?style=flat&logo=<html5>&logoColor=white&color=2C2255)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=<html5>&logoColor=white&color=F24E1E)
+
 
 
 
