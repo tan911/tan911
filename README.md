@@ -1,8 +1,8 @@
 ### Hi there 👋!
 
-I'm Jovan Lanutan, a curious developer who loves exploring and building useful things.
+I'm Jovan Lanutan.
 
-In my free time, I build side projects to make everyday tasks easier or to help others learn. Most of my code is focused on making tools that are simple, practical, and fun to use.
+In my free time, I build side projects for personal use. Most of my code is focused on making tools that are simple, practical, and fun to use.
 
 Feel free to check out my projects and see what I’ve been working on!
 
