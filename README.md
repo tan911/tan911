@@ -12,3 +12,9 @@ frontendmentor: [tan911](https://www.frontendmentor.io/profile/tan911)
 
 
 
+
+## Open Source Activity
+- Fixed documentation in Better Auth — [Opened PR #3856](https://github.com/better-auth/better-auth/pull/3856)
+- Commented on an issue in Turborepo (Vercel) — [Issue #3783](https://github.com/vercel/turborepo/issues/3783)
+- Joined a discussion in Prisma — [Discussion #23524](https://github.com/prisma/prisma/discussions/23524)
+
